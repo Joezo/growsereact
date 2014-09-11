@@ -11,9 +11,9 @@ The aim of this project is to give you an easy to pick and go base for using Rea
 - node http://www.nodejs.org
 
 #### Getting started
+Fork this project and clone your fork to your machine.
 ```
-git clone git@github.com:Joezo/growsereact.git <my-react-project>
-cd <my-react-project>
+cd <my-fork>
 npm install
 grunt
 ```
