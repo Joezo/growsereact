@@ -7,8 +7,8 @@ A template for projects wanting to use React js, Browserify and Grunt together.
 The aim of this project is to give you an easy to pick and go base for using React with Browserify on your next project.
 
 #### Requirements
-- grunt `npm install -g grunt-cli`
 - node http://www.nodejs.org
+- grunt `npm i -g grunt-cli`
 
 #### Getting started
 Fork this project and clone your fork to your machine.
